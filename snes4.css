@@ -175,7 +175,7 @@ start and select buttons. */
 }
 .custom .button.pressed{
     background: url(drawing/SNES-Layout2.png);
-    background-position-x: -1250px;
+    background-position-x: -1260px;
 }
 .custom .a{
     top: 143px;
