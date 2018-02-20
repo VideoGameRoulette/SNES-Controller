@@ -151,7 +151,7 @@ start and select buttons. */
 }
 .custom .back.pressed, .custom .start.pressed{
     background: url(drawing/SNES-Layout2.png);
-    background-position: -1177.5px 0px;
+    background-position: -1177px 0px;
 }
 .custom .back{
     float: left;
@@ -175,7 +175,7 @@ start and select buttons. */
 }
 .custom .button.pressed{
     background: url(drawing/SNES-Layout2.png);
-    background-position-x: -1240px;
+    background-position-x: -1260px;
 }
 .custom .a{
     top: 143px;
@@ -267,7 +267,7 @@ the CSS inline. */
 }
 .custom .face.pressed{
     background: url(drawing/SNES-Layout2.png);
-    background-position-x: -1327px;
+    background-position-x: -1326px;
 }
 /* NOTE: You NEED to set this to exactly half the height of what is listed 
 for '.controller.custom' so when your skin is activated via player selection
