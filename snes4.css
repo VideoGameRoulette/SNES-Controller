@@ -151,7 +151,7 @@ start and select buttons. */
 }
 .custom .back.pressed, .custom .start.pressed{
     background: url(drawing/SNES-Layout2.png);
-    background-position: -1177px 0px;
+    background-position: -1177.5px 0px;
 }
 .custom .back{
     float: left;
@@ -175,7 +175,7 @@ start and select buttons. */
 }
 .custom .button.pressed{
     background: url(drawing/SNES-Layout2.png);
-    background-position-x: -1249px;
+    background-position-x: -1250px;
 }
 .custom .a{
     top: 143px;
