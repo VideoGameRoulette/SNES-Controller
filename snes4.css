@@ -38,7 +38,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 /*BEGIN PS3 Controller Styling*/
 /*This class defines the base attributes of the skin*/
 .controller.custom{
-    background: url(drawing/SNES-Layout.png); 
+    background: url(drawing/SNES-Layout2.png); 
     background-repeat: no-repeat;
     background-position: 0px 0px;
     width: 970px;
@@ -47,7 +47,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
     margin-top: -212px;
 }
 .custom.disconnected {
-    background: url(drawing/SNES-Layout.png); 
+    background: url(drawing/SNES-Layout2.png); 
     background-position: 0px -424px;
     background-repeat: no-repeat;
 }
@@ -64,7 +64,7 @@ do so via my Imraising page: https://imraising.tv/u/mrmcpowned
 .custom .trigger{/* These are the actual triggers themselves */
     width: 211px;
     height: 34px;
-    background: url(drawing/SNES-Layout.png); 
+    background: url(drawing/SNES-Layout2.png); 
     background-position: -967px 0px;
     background-repeat: no-repeat;
     opacity: 0;
@@ -150,7 +150,7 @@ start and select buttons. */
     height: 61.5px;
 }
 .custom .back.pressed, .custom .start.pressed{
-    background: url(drawing/SNES-Layout.png);
+    background: url(drawing/SNES-Layout2.png);
     background-position: -1177px 0px;
 }
 .custom .back{
@@ -174,7 +174,7 @@ start and select buttons. */
     height:75px;
 }
 .custom .button.pressed{
-    background: url(drawing/SNES-Layout.png);
+    background: url(drawing/SNES-Layout2.png);
     background-position-x: -1249px;
 }
 .custom .a{
@@ -266,7 +266,7 @@ the CSS inline. */
     transform: rotate(90deg);
 }
 .custom .face.pressed{
-    background: url(drawing/SNES-Layout.png);
+    background: url(drawing/SNES-Layout2.png);
     background-position-x: -1323px;
 }
 /* NOTE: You NEED to set this to exactly half the height of what is listed 
